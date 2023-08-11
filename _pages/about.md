@@ -18,7 +18,10 @@ Beyond the books and code, I'm pretty passionate about visual arts, especially p
 
 I'm always open to teaming up with folks who share my drive for pushing tech boundaries. If that sounds like you, do not hesitate to contact me! 😄
 
+Git Stats
+===
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis)]
 
 
 <!-- Skills
