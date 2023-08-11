@@ -23,8 +23,7 @@ Git Stats
 
 
 
-<h1 align="center">Activity :running:</h1>
-<p align="center">
+<p align="left">
   <a href="https://github.com/stperrakis/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&v=2" alt="GitHub Streak">
   </a>
@@ -42,7 +41,6 @@ Git Stats
   </a>
    
 </p> 
-</p>
 
 <!-- Skills
 ===
