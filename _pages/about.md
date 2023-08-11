@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Stelios Perrakis"
+title: ""
 excerpt: "About me"
-author_profile: false
+author_profile: True
 redirect_from: 
   - /about/
   - /about.html
