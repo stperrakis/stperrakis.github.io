@@ -26,11 +26,11 @@ Git Stats
   .stats-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: start; /* or space-between, space-around, etc. */
-    gap: 16px; /* Gap between the items */
+    justify-content: start;
+    gap: 16px;
   }
   .stats-container a {
-    margin: 0; /* Remove margins to have a consistent gap */
+    margin: 0; 
   }
 </style>
 
@@ -51,6 +51,13 @@ Git Stats
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis&theme=transparent&hide_title=true&hide_border=true&v=2" alt="Wakatime Stats">
   </a>
 </div>
+
+<p align="center">
+  <i>"Treat others the way you would like to be treated."<br> 
+  - My favorite quote</i>
+</p>
+
+
 
 
 <!-- 
