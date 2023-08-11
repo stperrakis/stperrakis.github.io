@@ -30,7 +30,7 @@ Git Stats
   </a>
   
   <a href="https://github.com/stperrakis/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=transparent&hide_border=true&v=2" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=transparent&hide_border=true&langs_count=8&v=2" alt="Top Langs">
   </a>
   
   <a href="https://github.com/stperrakis/">
