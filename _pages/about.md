@@ -16,7 +16,7 @@ I genuinely love solving problems. When I'm hooked on a challenge, I'm all in â€
 
 Beyond the books and code, I'm pretty passionate about visual arts, especially photography. It's interesting how this love for visuals often mingles with my AI projects, giving them a unique twist.
 
-I'm always open to teaming up with folks who share my drive for pushing tech boundaries. If that sounds like you, do not hesitate to contact me!
+I'm always open to teaming up with folks who share my drive for pushing tech boundaries. If that sounds like you, do not hesitate to contact me! :)
 
 
 A data-driven personal website
