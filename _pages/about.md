@@ -21,7 +21,7 @@ I'm always open to teaming up with folks who share my drive for pushing tech bou
 
 
 
-Skills
+<!-- Skills
 ===
 
 ## Programming Languages
@@ -42,4 +42,4 @@ Skills
 
 ## Languages
 - **Greek (Native)**
-- English (C1 - IELTS Academic overall band score 7.0/9.0)
+- English (C1 - IELTS Academic overall band score 7.0/9.0) -->
