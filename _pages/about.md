@@ -22,7 +22,38 @@ Git Stats
 ===
 
 
+<style>
+  .stats-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start; /* or space-between, space-around, etc. */
+    gap: 16px; /* Gap between the items */
+  }
+  .stats-container a {
+    margin: 0; /* Remove margins to have a consistent gap */
+  }
+</style>
 
+<div class="stats-container">
+  <a href="https://github.com/stperrakis/">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&v=2" alt="GitHub Streak">
+  </a>
+  
+  <a href="https://github.com/stperrakis/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=transparent&hide_border=true&langs_count=8&v=2" alt="Top Langs">
+  </a>
+  
+  <a href="https://github.com/stperrakis/">
+    <img src="https://github-readme-stats.vercel.app/api?username=stperrakis&theme=transparent&count_private=true&show_icons=true&hide_title=true&hide_border=true&v=2" alt="GitHub Stats">
+  </a>
+  
+  <a href="https://github.com/stperrakis/">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis&theme=transparent&hide_title=true&hide_border=true&v=2" alt="Wakatime Stats">
+  </a>
+</div>
+
+
+<!-- 
 <p align="left">
   <a href="https://github.com/stperrakis/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&v=2" alt="GitHub Streak">
@@ -40,7 +71,7 @@ Git Stats
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis&theme=transparent&hide_title=true&hide_border=true&v=2" alt="Wakatime Stats">
   </a>
    
-</p> 
+</p>  -->
 
 <!-- Skills
 ===
