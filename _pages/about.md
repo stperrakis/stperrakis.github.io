@@ -10,7 +10,14 @@ redirect_from:
 
 About me
 ===
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hey there! I'm currently diving deep into my master's studies in Computer Science at the University of Crete. I'm super into AI advancements, especially when it comes to Deep Learning and how it plays into Computer Vision and Image Processing.
+
+I genuinely love solving problems. When I'm hooked on a challenge, I'm all in – sort of like a bee that won't leave a flower until the job's done. For me, dedication is the key to unlocking success.
+
+Beyond the books and code, I'm pretty passionate about visual arts, especially photography. It's interesting how this love for visuals often mingles with my AI projects, giving them a unique twist.
+
+I'm always open to teaming up with folks who share my drive for pushing tech boundaries. If that sounds like you, do not hesitate to contact me!
+
 
 A data-driven personal website
 ======
