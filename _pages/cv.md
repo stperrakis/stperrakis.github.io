@@ -25,25 +25,26 @@ Duties:
 
 ## Skills
 
-### Programming Languages
-- **Python (Main)**
-- Java
-- C/C++
-- MatLab
+- **Programming Languages**:  
+  - **Python (Main)**
+  - Java
+  - C/C++
+  - MatLab
 
-### Typesetting and Document Creation
-- LaTEX
+- **Typesetting & Document Creation**:  
+  - LaTeX
 
-### Machine Learning Frameworks
-- PyTorch
-- TensorFlow
+- **Machine Learning Frameworks**:  
+  - PyTorch
+  - TensorFlow
 
-### Version Control
-- Git
+- **Version Control**:  
+  - Git
 
-### Languages
-- **Greek (Native)**
-- English (C1 - IELTS Academic overall band score 7.0/9.0)
+- **Languages**:  
+  - **Greek (Native)**
+  - English (C1 - IELTS 7.0/9.0)
+This format groups each category and its items together, which makes it easier to scan through.
 
 ## Publications and Presentations
 - C. Liambas, S. Perrakis, “An Optimization Algorithm for 3D Crater Estimation by Using 2D NASA's Asteroids Open Data,” 2019, SIAM Conference on Applications of Dynamical Systems (DS19), Utah, May 2019.
