@@ -34,6 +34,7 @@ Git Stats
   }
 </style>
 
+<p align="center">
 <div class="stats-container">
   <a href="https://github.com/stperrakis/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&v=2" alt="GitHub Streak">
@@ -51,8 +52,8 @@ Git Stats
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis&theme=transparent&hide_title=true&hide_border=true&v=2" alt="Wakatime Stats">
   </a>
 </div>
+</p>
 
-<p align="center">
   <i>"Treat others the way you would like to be treated."<br> 
   - My favorite quote</i>
 </p>
