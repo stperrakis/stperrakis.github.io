@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Informatics, Aristotle University of Thessaloniki, 2020 (ECTS B - "Very Good")
+* M.Sc in Computer Science and Engineering, 2022-Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * March 2021 - September 2021: Research and Development Software Engineer
+  * Ulysses Systems
+  * Duties included: 
+    - Applied NLP and Machine Learning for synonyms extraction from approximately 50,000 marine domain emails.
+    - Developed scripts to facilitate the creation of a dictionary containing domain-specific stop words.
+    - Developed and deployed model for extracting signatures and banners from emails.
+    - Researched and designed systems for topic modeling of domain-specific emails.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+## Programming Languages
+- **Python (Main)**
+- Java
+- C/C++
+- MatLab
+
+## Typesetting and Document Creation
+- LaTEX
+
+## Machine Learning Frameworks
+- PyTorch
+- TensorFlow
+
+## Version Control
+- Git
+
+## Languages
+- **Greek (Native)**
+- English (C1 - IELTS Academic overall band score 7.0/9.0)
+
+
+Publications/Presentations/
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ ## Publications and Presentations
+- C. Liambas, S. Perrakis, “An Optimization Algorithm for 3D Crater Estimation by Using 2D NASA's Asteroids Open Data,” 2019, SIAM Conference on Applications of Dynamical Systems (DS19), Utah, May 2019.
+
+- C. Liambas and S. Perrakis, "An Optimization Algorithm for VMI Test Evaluation," 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0013-0018, doi: 10.1109/CCWC.2019.8666591.
+
+## Honors and Awards
+- Best Paper Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
+
+- Best Presenter Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
