@@ -37,23 +37,23 @@ Git Stats
 <p align="center">
   <div class="stats-container">
 
-    <a href="https://github.com/stperrakis/" style="margin-right: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&v=2" alt="GitHub Streak" width="240">
+    <a href="https://github.com/stperrakis/" style="margin-right: 15px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&v=2" alt="GitHub Streak" width="300">
     </a>
 
-    <a href="https://github.com/stperrakis/" style="margin-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=transparent&hide_border=true&langs_count=8&v=2" alt="Top Langs" width="240">
+    <a href="https://github.com/stperrakis/" style="margin-right: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=transparent&hide_border=true&langs_count=8&v=2" alt="Top Langs" width="300">
     </a>
 
-    <a href="https://github.com/stperrakis/" style="margin-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=stperrakis&theme=transparent&count_private=true&show_icons=true&hide_title=true&hide_border=true&v=2" alt="GitHub Stats" width="240">
+    <a href="https://github.com/stperrakis/" style="margin-right: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=stperrakis&theme=transparent&count_private=true&show_icons=true&hide_title=true&hide_border=true&v=2" alt="GitHub Stats" width="300">
     </a>
 
     <a href="https://github.com/stperrakis/">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis&theme=transparent&hide_title=true&hide_border=true&v=2" alt="Wakatime Stats" width="240">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis&theme=transparent&hide_title=true&hide_border=true&v=2" alt="Wakatime Stats" width="300">
     </a>
 
-  </div>
+</div>
 
   <i style="margin-top: 20px; display: block;">"Treat others the way you would like to be treated."<br> 
   - My favorite quote</i>
