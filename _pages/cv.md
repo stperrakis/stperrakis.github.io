@@ -15,8 +15,7 @@ redirect_from:
 
 ## Work experience
 **Research and Development Software Engineer**  
-*Ulysses Systems*  
-March 2021 - September 2021  
+*Ulysses Systems*   
 Duties:
 - Applied NLP and Machine Learning for synonyms extraction from approximately 50,000 marine domain emails.
 - Developed scripts to facilitate the creation of a dictionary containing domain-specific stop words.
