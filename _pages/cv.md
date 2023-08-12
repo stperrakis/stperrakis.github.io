@@ -22,6 +22,18 @@ Duties:
 - Developed and deployed model for extracting signatures and banners from emails.
 - Researched and designed systems for topic modeling of domain-specific emails.
 
+
+## Publications and Presentations
+- C. Liambas, S. Perrakis, “An Optimization Algorithm for 3D Crater Estimation by Using 2D NASA's Asteroids Open Data,” 2019, SIAM Conference on Applications of Dynamical Systems (DS19), Utah, May 2019.
+  
+- C. Liambas and S. Perrakis, "An Optimization Algorithm for VMI Test Evaluation," 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0013-0018, doi: 10.1109/CCWC.2019.8666591.
+
+## Honors and Awards
+- Best Paper Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
+  
+- Best Presenter Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
+
+
 ## Skills
 
 - **Programming Languages**: **Python (Main)**, Java, C/C++, MatLab
@@ -35,20 +47,7 @@ Duties:
 - **Languages**:  
   - **Greek (Native)**
   - English (C1 - IELTS 7.0/9.0)
-This format groups each category and its items together, which makes it easier to scan through.
-
-## Publications and Presentations
-- C. Liambas, S. Perrakis, “An Optimization Algorithm for 3D Crater Estimation by Using 2D NASA's Asteroids Open Data,” 2019, SIAM Conference on Applications of Dynamical Systems (DS19), Utah, May 2019.
   
-- C. Liambas and S. Perrakis, "An Optimization Algorithm for VMI Test Evaluation," 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0013-0018, doi: 10.1109/CCWC.2019.8666591.
-
-## Honors and Awards
-- Best Paper Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
-  
-- Best Presenter Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
-
-
-
 <!-- ---
 layout: archive
 title: "CV"
