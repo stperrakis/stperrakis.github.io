@@ -25,21 +25,13 @@ Duties:
 
 ## Skills
 
-- **Programming Languages**:  
-  - **Python (Main)**
-  - Java
-  - C/C++
-  - MatLab
+- **Programming Languages**: **Python (Main)**, Java, C/C++, MatLab
 
-- **Typesetting & Document Creation**:  
-  - LaTeX
+- **Typesetting & Document Creation**: LaTeX
 
-- **Machine Learning Frameworks**:  
-  - PyTorch
-  - TensorFlow
+- **Machine Learning Frameworks**: PyTorch, TensorFlow
 
-- **Version Control**:  
-  - Git
+- **Version Control**: Git
 
 - **Languages**:  
   - **Greek (Native)**
