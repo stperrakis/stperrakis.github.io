@@ -22,7 +22,6 @@ Duties:
 - Developed and deployed model for extracting signatures and banners from emails.
 - Researched and designed systems for topic modeling of domain-specific emails.
 
-
 ## Publications and Presentations
 - C. Liambas, S. Perrakis, “An Optimization Algorithm for 3D Crater Estimation by Using 2D NASA's Asteroids Open Data,” 2019, SIAM Conference on Applications of Dynamical Systems (DS19), Utah, May 2019.
   
