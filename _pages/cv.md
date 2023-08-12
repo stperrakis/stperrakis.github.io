@@ -23,6 +23,8 @@ Duties:
 - Researched and designed systems for topic modeling of domain-specific emails.
 
 ## Publications and Presentations
+- "Optimization algorithms for the cutting stock problem", Supervised by Prof. Nikolaos Tsitsas, Bachelor Thesis - Grade 10/10
+
 - C. Liambas, S. Perrakis, “An Optimization Algorithm for 3D Crater Estimation by Using 2D NASA's Asteroids Open Data,” 2019, SIAM Conference on Applications of Dynamical Systems (DS19), Utah, May 2019.
   
 - C. Liambas and S. Perrakis, "An Optimization Algorithm for VMI Test Evaluation," 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0013-0018, doi: 10.1109/CCWC.2019.8666591.
