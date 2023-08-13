@@ -50,7 +50,8 @@ Duties:
 - Best Presenter Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
 
 ## <u>Skills</u>
-- **Programming Languages**: **Python (Main)**, Java, C/C++, MatLab
+- **Programming Languages**: Python (Main), Java, C/C++, MatLab
+- **Web Development**: WordPress, HTML, CSS
 - **Typesetting & Document Creation**: LaTeX
 - **Machine Learning Frameworks**: PyTorch, TensorFlow
 - **Version Control**: Git
