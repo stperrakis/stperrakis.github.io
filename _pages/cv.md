@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## <u>Education</u>
 - **M.Sc in Computer Science and Engineering**, 2022-Present - *current GPA (9.2)*
 - **B.Sc in Informatics**, Aristotle University of Thessaloniki, 2020 (ECTS B - "Very Good")
   - Bachelor Thesis: "Optimization Algorithms for the Cutting Stock Problem"
@@ -17,7 +17,7 @@ redirect_from:
     - Grade: 10/10
 
 
-## Professional experience
+## <u>Professional experience</u>
 **Research and Development Software Engineer**  
 *Ulysses Systems*   
 Duties:
@@ -39,17 +39,17 @@ Duties:
 - Managed "Topics in Dynamics III" session.
 - Ensured smooth presentations and discussions.
 
-## Publications and Presentations
+## <u>Publications and Presentations</u>
 - C. Liambas, S. Perrakis, “An Optimization Algorithm for 3D Crater Estimation by Using 2D NASA's Asteroids Open Data,” 2019, SIAM Conference on Applications of Dynamical Systems (DS19), Utah, May 2019.
   
 - C. Liambas and S. Perrakis, "An Optimization Algorithm for VMI Test Evaluation," 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0013-0018, doi: 10.1109/CCWC.2019.8666591.
 
-## Honors and Awards
+## <u>Honors and Awards</u>
 - Best Paper Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
   
 - Best Presenter Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
 
-## Skills
+## <u>Skills</u>
 - **Programming Languages**: **Python (Main)**, Java, C/C++, MatLab
 - **Typesetting & Document Creation**: LaTeX
 - **Machine Learning Frameworks**: PyTorch, TensorFlow
