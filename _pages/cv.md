@@ -20,7 +20,6 @@ redirect_from:
 ## <u>Professional experience</u>
 **Research and Development Software Engineer**  
 *Ulysses Systems*   
-Duties:
 - Applied NLP and Machine Learning for synonyms extraction from approximately 50,000 marine domain emails.
 - Developed scripts to facilitate the creation of a dictionary containing domain-specific stop words.
 - Developed and deployed model for extracting signatures and banners from emails.
@@ -28,7 +27,6 @@ Duties:
 
 **Internship in AIIA laboratory**  
 *Aristotle university of Thessaloniki*   
-Duties:
 - Studied RNNs and their functionalities, as well as their use-cases.
 - Prepared presentations about RNNs and their variants.
 - Worked on tracking tasks using UAV videos.
