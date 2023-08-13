@@ -35,7 +35,7 @@ Duties:
 
 **Session Chair**  
 *SIAM Conference on Dynamical Systems (DS19)*
-- [Date(s) of the conference]
+- May 2019
 - Managed "Topics in Dynamics III" session.
 - Ensured smooth presentations and discussions.
 
