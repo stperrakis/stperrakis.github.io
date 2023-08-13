@@ -26,7 +26,7 @@ redirect_from:
 - Researched and designed systems for topic modeling of domain-specific emails.
 
 **Internship in AIIA laboratory**  
-*Aristotle university of Thessaloniki - under the guidance of prof. Ioannis Pitas*   
+*Aristotle university of Thessaloniki - under the guidance of Prof. Ioannis Pitas*   
 - Studied RNNs and their functionalities, as well as their use-cases.
 - Prepared presentations about RNNs and their variants.
 - Worked on tracking tasks using UAV videos.
