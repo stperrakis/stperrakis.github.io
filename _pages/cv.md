@@ -26,8 +26,8 @@ Duties:
 - Developed and deployed model for extracting signatures and banners from emails.
 - Researched and designed systems for topic modeling of domain-specific emails.
 
-**Internship in AIIA laboratory**
-*Aristotle university of Thessaloniki*
+**Internship in AIIA laboratory**  
+*Aristotle university of Thessaloniki*   
 Duties:
 - Studied RNN and their functionalities as well their use-cases
 - Prepared presentations about RNN and its variants
