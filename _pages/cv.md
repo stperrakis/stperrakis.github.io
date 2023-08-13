@@ -33,7 +33,7 @@ Duties:
 - Prepared presentations about RNN and its variants
 - Worked on Tracking tasks from UAVs videos
 
-**Session Chair** 
+**Session Chair**  
 *SIAM Conference on Dynamical Systems (DS19)*
 - May 2019
 - Managed "Topics in Dynamics III" session.
