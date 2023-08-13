@@ -29,7 +29,7 @@ redirect_from:
 *Aristotle university of Thessaloniki - under the guidance of Prof. Ioannis Pitas*   
 - Studied RNNs and their functionalities, as well as their use-cases.
 - Prepared presentations about RNNs and their variants.
-- Worked on tracking tasks using UAV videos.
+- Worked on video tracking tasks from UAV footage.
 
 **Session Chair**  
 *SIAM Conference on Dynamical Systems (DS19)*
