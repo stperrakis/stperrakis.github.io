@@ -16,7 +16,6 @@ redirect_from:
     - Supervised by Prof. Nikolaos Tsitsas
     - Grade: 10/10
 
-
 ## <u>Professional experience</u>
 **Research and Development Software Engineer**  
 *Ulysses Systems*   
@@ -33,18 +32,15 @@ redirect_from:
 
 **Session Chair**  
 *SIAM Conference on Dynamical Systems (DS19)*
-- May 2019
 - Managed "Topics in Dynamics III" session.
 - Ensured smooth presentations and discussions.
 
 ## <u>Publications and Presentations</u>
 - C. Liambas, S. Perrakis, “An Optimization Algorithm for 3D Crater Estimation by Using 2D NASA's Asteroids Open Data,” 2019, SIAM Conference on Applications of Dynamical Systems (DS19), Salt Lake City, UT, May 2019.
-  
 - C. Liambas and S. Perrakis, "An Optimization Algorithm for VMI Test Evaluation," 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, 2019, pp. 0013-0018, doi: 10.1109/CCWC.2019.8666591.
 
 ## <u>Honors and Awards</u>
 - Best Paper Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
-  
 - Best Presenter Award, January 2019, "An Optimization Algorithm for VMI Test Evaluation", Las Vegas, NV.
 
 ## <u>Skills</u>
