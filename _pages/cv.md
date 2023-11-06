@@ -17,6 +17,12 @@ redirect_from:
     - Grade: 10/10
 
 ## <u>Professional experience</u>
+**Teaching Assistant**
+*Computer Science Department - University of Crete*
+- HY-119 - Linear Algebra
+- HY-111 - Infinite Calculus II
+- HY-100 - Introduction to Computer Science
+  
 **Research and Development Software Engineer**  
 *Ulysses Systems*   
 - Applied NLP and Machine Learning for synonyms extraction from approximately 50,000 marine domain emails.
