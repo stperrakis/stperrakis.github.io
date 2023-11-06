@@ -50,9 +50,6 @@ redirect_from:
 ## <u>Skills</u>
 - **Programming Languages**: Python (Main), Java, C/C++, MatLab
 - **Web Development**: WordPress, HTML, CSS
-- **Typesetting & Document Creation**: LaTeX
 - **Machine Learning Frameworks**: PyTorch, TensorFlow
 - **Version Control**: Git
-- **Languages**:  
-  - **Greek (Native)**
-  - English (C1 - IELTS 7.0/9.0)
+- **Languages**: **Greek (Native)**, English (C1 - IELTS 7.0/9.0)
