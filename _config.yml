@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &stperrakis
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Stelios Perrakis"
   avatar           : "prof-img.gif"
   bio              : "M.Sc in Computer Science and Engineering"
-  location         : "Zürich, Switzerland"
+  location         : "Crete, Greece"
   employer         :
   pubmed           :
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/stperrakis
   vine             :
   weibo            :
   xing             :
