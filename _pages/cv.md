@@ -11,8 +11,10 @@ redirect_from:
 
 ## <u>Education</u>
 - **M.Sc in Computer Science and Engineering**, 2022-Present (2 years M.Sc.) - *current GPA (9.2)*
+  - Thesis: "Generative Models for Image Super-Resolution"
+  - Supervised by Prof. Nikos Komondakis
 - **B.Sc in Informatics**, Aristotle University of Thessaloniki, 2020, full joint degree 240 ECTS, (ECTS B - "Very Good")
-  - Bachelor Thesis: "Optimization Algorithms for the Cutting Stock Problem"
+  - Thesis: "Optimization Algorithms for the Cutting Stock Problem"
     - Supervised by Prof. Nikolaos Tsitsas
     - Grade: 10/10
 
@@ -20,6 +22,7 @@ redirect_from:
 
 **Teaching Assistant**  
 *Computer Science Department - University of Crete*
+- HY-472 - Computer Vision
 - HY-119 - Linear Algebra
 - HY-111 - Infinite Calculus II
 - HY-100 - Introduction to Computer Science
