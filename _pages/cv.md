@@ -19,7 +19,9 @@ redirect_from:
     - Grade: 10/10
 
 ## <u>Professional experience</u>
-
+**Research Fellow**
+- Institute of Applied and Computational Mathematics (IACM), Forth, Crete, Heraklion.
+  
 **Teaching Assistant**  
 *Computer Science Department - University of Crete*
 - [HY-472 - Computer Vision](https://www.csd.uoc.gr/CSD/index.jsp?content=courses_catalog&openmenu=demoAcc3&lang=en&course=107)
