@@ -20,7 +20,7 @@ redirect_from:
 
 ## <u>Professional experience</u>
 **Research Fellow**
-- Institute of Applied and Computational Mathematics (IACM), Forth, Crete, Heraklion.
+- Institute of Applied and Computational Mathematics (IACM), FORTH, Crete, Heraklion.
   
 **Teaching Assistant**  
 *Computer Science Department - University of Crete*
