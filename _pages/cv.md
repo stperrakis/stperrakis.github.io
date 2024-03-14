@@ -22,10 +22,10 @@ redirect_from:
 
 **Teaching Assistant**  
 *Computer Science Department - University of Crete*
-- HY-472 - Computer Vision
-- HY-119 - Linear Algebra
-- HY-111 - Infinite Calculus II
-- HY-100 - Introduction to Computer Science
+- [HY-472 - Computer Vision](https://www.csd.uoc.gr/CSD/index.jsp?content=courses_catalog&openmenu=demoAcc3&lang=en&course=107)
+- [HY-119 - Linear Algebra](https://www.csd.uoc.gr/CSD/index.jsp?content=courses_catalog&openmenu=demoacc3&lang=en&area_id=1&course=8)
+- [HY-111 - Calculus II](https://www.csd.uoc.gr/CSD/index.jsp?content=courses_catalog&openmenu=demoAcc3&lang=en&course=5)
+- [HY-100 - Introduction to Computer Science](https://www.csd.uoc.gr/~hy100/syllabus-en.html)
   
 **Research and Development Software Engineer**  
 *Ulysses Systems*   
