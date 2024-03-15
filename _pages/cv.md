@@ -12,7 +12,7 @@ redirect_from:
 ## <u>Education</u>
 - **M.Sc in Computer Science and Engineering**, 2022-Present (2 years M.Sc.) - *current GPA (9.12)*
   - Thesis: "Generative Models for Image Super-Resolution"
-    -- Keywords: Medical Imaging, Super-Resolution, Generative Models, Diffusion Models.
+    -- Keywords: Medical Imaging, Super-Resolution, Generative Models, Diffusion Models, Latent Diffusion Models.
   - Supervised by Prof. Nikos Komondakis
 - **B.Sc in Informatics**, Aristotle University of Thessaloniki, 2020, full joint degree 240 ECTS, (ECTS B - "Very Good")
   - Thesis: "Optimization Algorithms for the Cutting Stock Problem"
