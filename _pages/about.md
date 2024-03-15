@@ -54,9 +54,6 @@ Git Stats
     </a>
 
 </div>
-
-  <i style="margin-top: 20px; display: block;">"Treat others the way you would like to be treated."<br> 
-  - My favorite quote</i>
 </p>
 
 
