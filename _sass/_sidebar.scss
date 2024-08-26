@@ -72,8 +72,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 100px; /* Adjusted width */
-  height: 100px; /* Adjusted height */
+  width: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -82,15 +83,12 @@
   }
 
   img {
-     width:233px;
-     height:226px;
-    //max-width: 100%; /* Make image responsive within the container */
-   border-radius: 80%;
+    max-width: 175px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
-      max-width: 500px; /* Larger size for larger screens */
     }
   }
 }
