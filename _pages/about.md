@@ -10,13 +10,11 @@ redirect_from:
 
 About me
 ===
-I am currently pursuing a Master's degree in Computer Science at the University of Crete, with a strong focus on Artificial Intelligence, particularly in the areas of Deep Learning, Computer Vision, and Image Processing.
+Hey there! I’m currently delving into my master’s studies in Computer Science at the University of Crete. I have a strong interest in AI advancements, particularly in Deep Learning and its role in Computer Vision and Image Processing. 
 
-I have a deep passion for problem-solving and approach challenges with unwavering dedication, driven by a commitment to seeing tasks through to completion. I believe that perseverance is essential to achieving success.
+I have a genuine love for problem-solving, and when I’m faced with a challenge, I’m fully committed until it’s resolved. This dedication is my key to success. Beyond my academic pursuits, I have a deep passion for visual arts, especially photography. 
 
-In addition to my academic pursuits, I have a keen interest in the visual arts, particularly photography. This creative passion often intersects with my AI research, bringing a unique perspective to my projects.
-
-I am always open to collaborating with like-minded individuals who are passionate about advancing technology. Please feel free to reach out if you share similar interests. 😄
+It’s fascinating how this love for visuals often intersects with my AI projects, giving them a unique perspective. I’m always open to collaborating with individuals who share my drive to push the boundaries of technology. If you're one of them, I'd love to connect! 😄
 
 Git Stats
 ===
