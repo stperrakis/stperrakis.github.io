@@ -83,9 +83,9 @@
 
   img {
      width:233px;
-     height:200px;
+     height:226px;
     //max-width: 100%; /* Make image responsive within the container */
-    //border-radius: 80%;
+   border-radius: 80%;
 
     @include breakpoint($large) {
       padding: 5px;
