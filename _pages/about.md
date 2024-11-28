@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 I’m currently a MSc student at Computer Science Department of University of Crete. 
-<!-- As an [NDSEG](https://en.wikipedia.org/wiki/DoD_NDSEG_Fellowship) fellow, I work in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) advised by [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) to develop novel, efficient, and scalable methods to address unsolved problems in neuroscience. -->
+
 
 My master's thesis focuses on the application of Generative Models to address challenges in image super-resolution. This research aims to enhance the resolution and quality of low-resolution images by leveraging state-of-the-art generative techniques, including Diffusion and Latent Diffusion Models.
 

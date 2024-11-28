@@ -48,8 +48,6 @@ Publications
     {% for post in site.publications reversed %}
       {% include archive-single-cv.html %}
     {% endfor %}
-    <li>Liambas, C., & Perrakis, S. “Optimization Algorithm for 3D Crater Estimation using NASA’s 2D Asteroid Data,” SIAM Conference on Applications of Dynamical Systems (DS19), Salt Lake City, UT (May 2019)</li>
-    <li>Liambas, C., & Perrakis, S. “VMI Test Evaluation Optimization Algorithm,” IEEE Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV (Jan 2019)</li>
   </ul>
 
 Teaching
@@ -79,3 +77,7 @@ Professional Service
 ======
 * Military Service: Supreme Military Command of the Interior and Islands, Material Branch, Athens, Greece (Sep 2021 - Sep 2022)
 * Session Chair: CP43 Topics in Dynamics III, DS19, Salt Lake City (May 2019)
+
+
+  <!-- <li>Liambas, C., & Perrakis, S. “Optimization Algorithm for 3D Crater Estimation using NASA’s 2D Asteroid Data,” SIAM Conference on Applications of Dynamical Systems (DS19), Salt Lake City, UT (May 2019)</li>
+    <li>Liambas, C., & Perrakis, S. “VMI Test Evaluation Optimization Algorithm,” IEEE Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV (Jan 2019)</li> -->
