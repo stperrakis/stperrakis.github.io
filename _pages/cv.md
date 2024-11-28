@@ -68,17 +68,24 @@ Professional Service
   CP43 Topics in Dynamics III, DS19, Salt Lake City  
   *(May 2019)*  
 
-### Skills
+Skills
+======
 
-#### Programming Languages
+Programming Languages
 - **Python**  
-  - ⮞ PyTorch  
-  - ⮞ TensorFlow  
-  - ⮞ JAX  
+  PyTorch, TensorFlow, JAX  
 
-#### Tools and Platforms
-- ✎ LaTeX  
-- 🌐 WordPress  
+Tools and Platforms
+======
+
+✎ LaTeX, 🌐 WordPress
+
+Languages
+======
+
+Greek (Native), English (C1 - IELTS Academic 7/9)
+
+
 
   <!-- <li>Liambas, C., & Perrakis, S. “Optimization Algorithm for 3D Crater Estimation using NASA’s 2D Asteroid Data,” SIAM Conference on Applications of Dynamical Systems (DS19), Salt Lake City, UT (May 2019)</li>
     <li>Liambas, C., & Perrakis, S. “VMI Test Evaluation Optimization Algorithm,” IEEE Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV (Jan 2019)</li> -->
