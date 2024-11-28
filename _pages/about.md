@@ -28,7 +28,7 @@ Background
 ------
 I hold a B.Sc. in Informatics from Aristotle University of Thessaloniki and an M.Sc. in Computer Engineering from the University of Crete. My master's thesis, Generative Models for Super-Resolution in Medical Imaging, focused on enhancing MRI data quality using advanced deep learning techniques.
 
-I gained research experience as a Research Fellow at IACM-FORTH, applying deep learning to multicoil volumetric MRI data. Additionally, I contributed to NLP projects at Ulysses Systems and developed object-tracking systems at AIIA. My technical expertise spans Python, PyTorch, and machine learning, complemented by teaching assistantships in computer vision and signal processing. My work reflects a strong commitment to impactful, interdisciplinary research.
+I gained research experience as a Research Fellow at IACM-FORTH, applying diffusion models to MRI data. Additionally, I contributed to NLP projects at Ulysses Systems.
 
 Hobbies
 ------
