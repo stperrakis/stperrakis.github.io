@@ -11,9 +11,9 @@ redirect_from:
 **Stelios Perrakis**   
 *MSc Student*   
 *Computer Science*   
-<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering" target="_blank" rel="noopener noreferrer"><img src="images/tandon-logo.png" alt="NYU Tandon" width="160" height="80"></a> 
+<!-- <a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering" target="_blank" rel="noopener noreferrer"><img src="images/tandon-logo.png" alt="NYU Tandon" width="160" height="80"></a> 
 <a href="https://www.neuroinformaticslab.com/" target="_blank" rel="noopener noreferrer"><img src="images/neuroinformatics-logo.jpg" alt="Neuroinformatics Lab" width="160" height="80"></a> 
-<a href="https://vida.engineering.nyu.edu/" target="_blank" rel="noopener noreferrer"><img src="images/vida-logo.png" alt="VIDA" width="160" height="80"></a>
+<a href="https://vida.engineering.nyu.edu/" target="_blank" rel="noopener noreferrer"><img src="images/vida-logo.png" alt="VIDA" width="160" height="80"></a> -->
 
 ---
 
