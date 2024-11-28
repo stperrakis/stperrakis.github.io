@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "Stelios Perrakis"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "stperrakis/stperrakis.github.io"
 author:
   # Biographic information
   avatar           : "stelios.png"
-  name             : "Stelios Perrakis"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : 
   location         : 
