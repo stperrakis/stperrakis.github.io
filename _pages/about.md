@@ -7,32 +7,39 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-**Stelios Perrakis**   
-*MSc Student*   
-*Computer Science*   
-
-
----
-
-I’m currently a MSc student at Computer Science Department of University of Crete. 
-
-
-My master's thesis focuses on the application of Generative Models to address challenges in image super-resolution. This research aims to enhance the resolution and quality of low-resolution images by leveraging state-of-the-art generative techniques, including Diffusion and Latent Diffusion Models.
-
-
-**Research Interests:** Deep Learning, Generative Models, Computer Vision, Natural Language Processing
-
-
-Background
-------
-I hold a B.Sc. in Informatics from Aristotle University of Thessaloniki and an M.Sc. in Computer Engineering from the University of Crete. My master's thesis, Generative Models for Super-Resolution in Medical Imaging, focused on enhancing MRI data quality using advanced deep learning techniques.
-
-I gained research experience as a Research Fellow at IACM-FORTH, applying diffusion models to MRI data. Additionally, I contributed to NLP projects at Ulysses Systems.
-
-Hobbies
-------
-- Music  
-- Photography  
-- Fishing  
-
+<div class="about-section">
+    <table class="invisible-table">
+        <tr>
+            <td style="vertical-align: top; width: 20%;"><strong>About Me</strong></td>
+            <td>
+                <strong>Stelios Perrakis</strong><br>
+                MSc Student in Computer Science<br>
+                University of Crete, Heraklion, Greece<br>
+                <br>
+                I am currently an MSc student at the Computer Science Department of the University of Crete. My research focuses on the application of Generative Models to solve challenges in image super-resolution, leveraging techniques like Diffusion and Latent Diffusion Models. I am deeply interested in using Machine Learning and Computer Vision to improve image quality, particularly in the medical imaging domain.
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;"><strong>Research Interests</strong></td>
+            <td>
+                Deep Learning, Generative Models, Computer Vision, Natural Language Processing
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;"><strong>Background</strong></td>
+            <td>
+                I hold a B.Sc. in Informatics from Aristotle University of Thessaloniki and an MSc in Computer Engineering from the University of Crete. My MSc thesis, titled <em>"Generative Models for Super-Resolution in Medical Imaging"</em>, focuses on enhancing MRI data quality using advanced deep learning techniques.
+                <br><br>
+                Additionally, I have gained research experience as a Research Fellow at FORTH, where I applied diffusion models to MRI data, and contributed to NLP projects during my tenure at Ulysses Systems.
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;"><strong>Hobbies</strong></td>
+            <td>
+                - Music<br>
+                - Photography<br>
+                - Fishing<br>
+            </td>
+        </tr>
+    </table>
+</div>
