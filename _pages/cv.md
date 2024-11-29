@@ -22,46 +22,43 @@ redirect_from:
 </style>
 
 <table class="invisible-table">
-    <tr>
-        <th>Section</th>
-        <th>Details</th>
-    </tr>
-    <tr>
-        <td>Personal Information</td>
-        <td>
-            Name: Stylianos (Stelios) Perrakis<br>
-        </td>
-    </tr>
-    <tr>
-        <td>Education</td>
-        <td>
-            <strong>University of Crete, Heraklion, Greece</strong> (Sep 2022 - Present)<br>
-            M.Sc. in Computer Engineering, GPA: 9.23/10<br>
-            Thesis: "Generative Models for Super-Resolution in Medical Imaging"<br>
-            <br><br>
-            <strong>Aristotle University of Thessaloniki, Greece</strong> (Sep 2013 - Aug 2020)<br>
-            B.Sc. in Informatics, GPA: 7.04/10<br>
-            Thesis: "Optimization Algorithms for the Cutting Stock Problem"<br>
-        </td>
-    </tr>
-    <tr>
-        <td>Work Experience</td>
-        <td>
-            <strong>Foundation for Research & Technology – Hellas (FORTH)</strong>, Heraklion, Greece<br>
-            Research Fellow at Institute of Computational and Applied Mathematics (Mar 2023 - Present)<br>
-            Project: "Image to Super-Resolution with Application in Medical Imaging"<br>
-            Supervisors: Yannis Papaharilaou, Nikos Komodakis<br><br>
-            <strong>Ulysses Systems</strong>, Athens, Greece<br>
-            R&D Software Engineer (Mar 2021 - Sept 2021)<br>
-            Project: "NLP Tasks in Marine Domain; Topic Modeling and Query Optimization"<br>
-        </td>
-    </tr>
-    <tr>
-        <td>Skills</td>
-        <td>
-            Languages: Greek (Native), English (C1 - IELTS 7.0/9.0)<br>
-            Programming: Python (Main), C/C++, MATLAB, HTML/CSS, Java<br>
-            Other: PyTorch, JAX, TensorFlow, LaTeX, GIT, SOLR, Inkscape, WordPress
-        </td>
-    </tr>
+
+  <tr>
+      <td>Personal Information</td>
+      <td>
+          Name: Stylianos (Stelios) Perrakis<br>
+      </td>
+  </tr>
+  <tr>
+      <td>Education</td>
+      <td>
+          <strong>University of Crete, Heraklion, Greece</strong> (Sep 2022 - Present)<br>
+          M.Sc. in Computer Engineering, GPA: 9.23/10<br>
+          Thesis: "Generative Models for Super-Resolution in Medical Imaging"<br>
+          <br><br>
+          <strong>Aristotle University of Thessaloniki, Greece</strong> (Sep 2013 - Aug 2020)<br>
+          B.Sc. in Informatics, GPA: 7.04/10<br>
+          Thesis: "Optimization Algorithms for the Cutting Stock Problem"<br>
+      </td>
+  </tr>
+  <tr>
+      <td>Work Experience</td>
+      <td>
+          <strong>Foundation for Research & Technology – Hellas (FORTH)</strong>, Heraklion, Greece<br>
+          Research Fellow at Institute of Computational and Applied Mathematics (Mar 2023 - Present)<br>
+          Project: "Image to Super-Resolution with Application in Medical Imaging"<br>
+          Supervisors: Yannis Papaharilaou, Nikos Komodakis<br><br>
+          <strong>Ulysses Systems</strong>, Athens, Greece<br>
+          R&D Software Engineer (Mar 2021 - Sept 2021)<br>
+          Project: "NLP Tasks in Marine Domain; Topic Modeling and Query Optimization"<br>
+      </td>
+  </tr>
+  <tr>
+      <td>Skills</td>
+      <td>
+          Languages: Greek (Native), English (C1 - IELTS 7.0/9.0)<br>
+          Programming: Python (Main), C/C++, MATLAB, HTML/CSS, Java<br>
+          Other: PyTorch, JAX, TensorFlow, LaTeX, GIT, SOLR, Inkscape, WordPress
+      </td>
+  </tr>
 </table>
