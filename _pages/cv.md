@@ -1,7 +1,6 @@
 ---
-layout: cv
-title: CV
-author_profile: true
+layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,94 +8,78 @@ redirect_from:
 ---
 
 
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+<style>
+    .invisible-table {
+        width: 100%;
+        border-collapse: collapse;
+        border: none;
+    }
+    .invisible-table th, .invisible-table td {
+        padding: 8px;
+        text-align: left;
+        border: none;
+    }
+</style>
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<table class="invisible-table">
+    <tr>
+        <th>Section</th>
+        <th>Details</th>
+    </tr>
+    <tr>
+        <td>Personal Information</td>
+        <td>
+            Name: Stylianos (Stelios) Perrakis<br>
+            Born: 23/02/1994<br>
+            Nationality: Greek<br>
+            Email: <a href="mailto:stylperr@iacm.forth.gr">stylperr@iacm.forth.gr</a><br>
+            Address: Seebahnstrasse 123, 8003 Zürich, Switzerland<br>
+            Telephone: (+41) 76 507 64 81
+        </td>
+    </tr>
+    <tr>
+        <td>Education</td>
+        <td>
+            <strong>University of Crete, Heraklion, Greece</strong> (Sep 2022 - Present)<br>
+            M.Sc. in Computer Engineering, GPA: 9.23/10<br>
+            Thesis: "Generative Models for Super-Resolution in Medical Imaging"<br>
+            Supervisor: Nikos Komodakis<br><br>
+            <strong>Aristotle University of Thessaloniki, Greece</strong> (Sep 2013 - Aug 2020)<br>
+            B.Sc. in Informatics, GPA: 7.04/10<br>
+            Thesis: "Optimization Algorithms for the Cutting Stock Problem"<br>
+            Supervisor: Nikolaos Tsitsas
+        </td>
+    </tr>
+    <tr>
+        <td>Work Experience</td>
+        <td>
+            <strong>Foundation for Research & Technology – Hellas (FORTH)</strong>, Heraklion, Greece<br>
+            Research Fellow at Institute of Computational and Applied Mathematics (Mar 2023 - Present)<br>
+            Project: "Image to Super-Resolution with Application in Medical Imaging"<br>
+            Supervisors: Yannis Papaharilaou, Nikos Komodakis<br><br>
+            <strong>Ulysses Systems</strong>, Athens, Greece<br>
+            R&D Software Engineer (Mar 2021 - Sept 2021)<br>
+            Project: "NLP Tasks in Marine Domain; Topic Modeling and Query Optimization"<br>
+            Supervisor: Nikos Rassias
+        </td>
+    </tr>
+    <tr>
+        <td>Skills</td>
+        <td>
+            Languages: Greek (Native), English (C1 - IELTS 7.0/9.0)<br>
+            Programming: Python (Main), C/C++, MATLAB, HTML/CSS, Java<br>
+            Other: PyTorch, JAX, TensorFlow, LaTeX, GIT, SOLR, Inkscape, WordPress
+        </td>
+    </tr>
+    <tr>
+        <td>References</td>
+        <td>
+            Prof. Nikos Komodakis<br>
+            Email: <a href="mailto:komod@csd.uoc.gr">komod@csd.uoc.gr</a><br>
+            Roles: Master's thesis Supervisor, Course Instructor<br><br>
+            Dr. Yannis Papaharilaou<br>
+            Email: <a href="mailto:yannisp@iacm.forth.gr">yannisp@iacm.forth.gr</a><br>
+            Role: Supervisor, IACM-FORTH
+        </td>
+    </tr>
+</table>
