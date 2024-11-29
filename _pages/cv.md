@@ -54,7 +54,7 @@ redirect_from:
     <em>2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV</em><br>
     C. Liambas and S. Perrakis, "An Optimization Algorithm for VMI Test Evaluation," 
     <em>2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC)</em>, 2019, 
-    pp. 0013-0018, doi: <a href="https://doi.org/10.1109/CCWC.2019.8666591">10.1109/CCWC.2019.8666591</a>.<br>
+    pp. 0013-0018, doi: <a href="https://doi.org/10.1109/CCWC.2019.8666591">10.1109/CCWC.2019.8666591</a>.<br><br>
     <strong>2. An Optimization Algorithm for 3D Crater Estimation using NASA's 2D Asteroids Open Data</strong><br>
     <em>2019 SIAM Conference on Dynamical Systems and SIAM Workshop on Network Science, CP43 Topics in Dynamics III</em><br>
     C. Liambas and S. Perrakis, "An Optimization Algorithm for 3D Crater Estimation using NASA's 2D Asteroids Open Data," 
