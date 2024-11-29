@@ -25,7 +25,7 @@
       Recurrent Neural Networks (RNNs), Object Tracking  
 - - -
 ### Publications & Conferences
-======
+
   <ul>
     {% for post in site.publications reversed %}
       {% include archive-single-cv.html %}
@@ -34,7 +34,7 @@
 - - -
 
 ### Awards
-======
+
   <ol type="i">
     <li>Best Paper Award, IEEE Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV (Jan 2019)</li>
     <li>Best Presenter Award, IEEE Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV (Jan 2019)</li>
@@ -43,7 +43,7 @@
 - - -
 
 ### Professional Service
-======
+
   **Military Service**  
     Supreme Military Command of the Interior and Islands, Material Branch, Athens, Greece  
     *(Sep 2021 - Sep 2022)*
@@ -54,7 +54,7 @@
 
 - - -
 ### Skills
-======
+
 
 #### Programming Languages
   <small>
