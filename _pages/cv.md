@@ -64,8 +64,8 @@ Skills
 ======
 
 #### Programming Languages
-- **Python**  
-  PyTorch, TensorFlow, JAX  
+  🐍 **Python**, C/C++, Java, Matlab
+  **Frameworks/Libraries:** PyTorch, TensorFlow, JAX  
 
 #### Tools and Platforms
 ✎ LaTeX, 🌐 WordPress
