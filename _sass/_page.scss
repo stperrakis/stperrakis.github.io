@@ -49,10 +49,6 @@
 }
 
 .page__content {
-  flex: 1; /* Dynamically adjusts to fill space between header and footer */
-  padding: 2em; /* Adds padding to content */
-  box-sizing: border-box; /* Includes padding in height calculation */
-  overflow: hidden; /* Prevents scrolling */
 
   h2 {
     padding-bottom: 0.5em;
