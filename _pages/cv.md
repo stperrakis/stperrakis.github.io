@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,7 +19,7 @@ redirect_from:
     Aristotle University of Thessaloniki, 2020  
     **GPA**: 7.04/10
 
----
+- - -
 
 ### 💼 Work Experience
 
@@ -34,23 +34,26 @@ redirect_from:
   **Internship**  
     Artificial Intelligence and Information Analysis (AIIA), Aristotle University of Thessaloniki, Sep 2020 - Jan 2021  
       Recurrent Neural Networks (RNNs), Object Tracking  
-
-Publications & Conferences
+- - -
+### Publications & Conferences
 ======
   <ul>
     {% for post in site.publications reversed %}
       {% include archive-single-cv.html %}
     {% endfor %}
   </ul>
+- - -
 
-Awards
+### Awards
 ======
-  <ul>
+  <ol type="i">
     <li>Best Paper Award, IEEE Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV (Jan 2019)</li>
     <li>Best Presenter Award, IEEE Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV (Jan 2019)</li>
-  </ul>
+  </ol>
 
-Professional Service
+- - -
+
+### Professional Service
 ======
   **Military Service**  
     Supreme Military Command of the Interior and Islands, Material Branch, Athens, Greece  
@@ -60,7 +63,8 @@ Professional Service
     CP43 Topics in Dynamics III, DS19, Salt Lake City  
     *(May 2019)*  
 
-Skills
+- - -
+### Skills
 ======
 
 #### Programming Languages
