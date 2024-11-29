@@ -7,6 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+    .invisible-table {
+        width: 100%;
+        border-collapse: collapse;
+        border: none;
+    }
+    .invisible-table th, .invisible-table td {
+        padding: 8px;
+        text-align: left;
+        border: none;
+    }
+</style>
+
 <div class="about-section">
     <table class="invisible-table">
         <tr>
