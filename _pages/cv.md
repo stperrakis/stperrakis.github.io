@@ -43,11 +43,10 @@ redirect_from:
             <strong>University of Crete, Heraklion, Greece</strong> (Sep 2022 - Present)<br>
             M.Sc. in Computer Engineering, GPA: 9.23/10<br>
             Thesis: "Generative Models for Super-Resolution in Medical Imaging"<br>
-            Supervisor: Nikos Komodakis<br><br>
+            <br><br>
             <strong>Aristotle University of Thessaloniki, Greece</strong> (Sep 2013 - Aug 2020)<br>
             B.Sc. in Informatics, GPA: 7.04/10<br>
             Thesis: "Optimization Algorithms for the Cutting Stock Problem"<br>
-            Supervisor: Nikolaos Tsitsas
         </td>
     </tr>
     <tr>
@@ -60,7 +59,6 @@ redirect_from:
             <strong>Ulysses Systems</strong>, Athens, Greece<br>
             R&D Software Engineer (Mar 2021 - Sept 2021)<br>
             Project: "NLP Tasks in Marine Domain; Topic Modeling and Query Optimization"<br>
-            Supervisor: Nikos Rassias
         </td>
     </tr>
     <tr>
@@ -69,17 +67,6 @@ redirect_from:
             Languages: Greek (Native), English (C1 - IELTS 7.0/9.0)<br>
             Programming: Python (Main), C/C++, MATLAB, HTML/CSS, Java<br>
             Other: PyTorch, JAX, TensorFlow, LaTeX, GIT, SOLR, Inkscape, WordPress
-        </td>
-    </tr>
-    <tr>
-        <td>References</td>
-        <td>
-            Prof. Nikos Komodakis<br>
-            Email: <a href="mailto:komod@csd.uoc.gr">komod@csd.uoc.gr</a><br>
-            Roles: Master's thesis Supervisor, Course Instructor<br><br>
-            Dr. Yannis Papaharilaou<br>
-            Email: <a href="mailto:yannisp@iacm.forth.gr">yannisp@iacm.forth.gr</a><br>
-            Role: Supervisor, IACM-FORTH
         </td>
     </tr>
 </table>
