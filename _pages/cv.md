@@ -30,11 +30,6 @@ redirect_from:
         <td>Personal Information</td>
         <td>
             Name: Stylianos (Stelios) Perrakis<br>
-            Born: 23/02/1994<br>
-            Nationality: Greek<br>
-            Email: <a href="mailto:stylperr@iacm.forth.gr">stylperr@iacm.forth.gr</a><br>
-            Address: Seebahnstrasse 123, 8003 Zürich, Switzerland<br>
-            Telephone: (+41) 76 507 64 81
         </td>
     </tr>
     <tr>
