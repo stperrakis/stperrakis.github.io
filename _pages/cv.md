@@ -9,8 +9,15 @@ redirect_from:
 
 
 <style>
-    table.invisible-table, table.invisible-table th, table.invisible-table td {
-        border: none !important; /* Force removal of all borders */
+    .invisible-table {
+        width: 100%;
+        border-collapse: collapse;
+        border: none;
+    }
+    .invisible-table th, .invisible-table td {
+        padding: 8px;
+        text-align: left;
+        border: none;
     }
 </style>
 
@@ -60,7 +67,7 @@ redirect_from:
   <td>
     <strong>1. Best Paper Award</strong><br>
     <em>IEEE Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV</em><br>
-    <strong>2. Best Presenter Award</strong><br>
+    <strong>2. Best Presenter Award</strong><br><br>
     <em>IEEE Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV</em><br>
   </td>
 </tr>
