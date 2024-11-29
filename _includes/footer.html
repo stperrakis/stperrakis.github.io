@@ -6,7 +6,7 @@
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
-    
+
     {% if site.author.github %}
       <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
@@ -26,6 +26,6 @@
 {% endif %}
 
 <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ Stelios Perrakis }}.
-  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
+  &copy; {{ site.time | date: '%Y' }} Stelios Perrakis.
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}
 </div>
