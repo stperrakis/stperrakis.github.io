@@ -9,15 +9,8 @@ redirect_from:
 
 
 <style>
-    .invisible-table {
-        width: 100%;
-        border-collapse: collapse;
-        border: none;
-    }
-    .invisible-table th, .invisible-table td {
-        padding: 8px;
-        text-align: left;
-        border: none;
+    table.invisible-table, table.invisible-table th, table.invisible-table td {
+        border: none !important; /* Force removal of all borders */
     }
 </style>
 
