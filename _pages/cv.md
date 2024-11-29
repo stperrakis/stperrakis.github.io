@@ -1,14 +1,3 @@
----
-layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 ### 🎓 Education
 
   **M.Sc. in Computer Engineering**  
@@ -68,12 +57,15 @@ redirect_from:
 ======
 
 #### Programming Languages
-  🐍 **Python**, C/C++, Java, Matlab
-  **Frameworks/Libraries:** PyTorch, TensorFlow, JAX  
+  <small>
+  🐍 **Python**, C/C++, Java, Matlab  
+  **Frameworks/Libraries:** PyTorch, TensorFlow, JAX
+  </small>  
 
 #### Tools and Platforms
 ✎ LaTeX, 🌐 WordPress
 
 #### Languages
-
+<small>
 Greek (Native), English (C1 - IELTS Academic 7/9)
+</small>  
