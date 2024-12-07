@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - stperrakis
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - stperrakis/Sparse_Dictionary_Learning_BFGS
+  - stperrakis/ULM-fit
