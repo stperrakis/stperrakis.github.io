@@ -48,10 +48,12 @@ nav_order: 4
 </div>
 {% endif %}
 
+---
 
+## Waka Stats
 
 <body>
-  <div id="wakatime-stats" style="display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; gap: 2rem; margin: 0 auto;">
+  <div id="wakatime-stats" style="display: flex; flex-direction: row; align-items: center; justify-content: space-around; width: 100%; max-width: 800px; margin: 0 auto; overflow: hidden;">
     <!-- This container will be populated by the script -->
     ---
   </div>
@@ -70,18 +72,18 @@ nav_order: 4
     const currentTheme = getCurrentTheme();
     const wakatimeStatsContainer = document.getElementById('wakatime-stats');
     wakatimeStatsContainer.innerHTML = currentTheme === 'dark' ? `
-      <figure style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; max-width: 800px; margin: 0;">
-        <embed src="https://wakatime.com/share/@stperrakis/2758fa45-5826-485b-9fc8-2cbaab56408d.svg" style="display: block; width: 100%; max-width: 500px; height: auto; margin: 0;"></embed>
+      <figure style="flex: 1; margin: 5px;">
+        <embed src="https://wakatime.com/share/@stperrakis/2758fa45-5826-485b-9fc8-2cbaab56408d.svg" style="width: 100%; height: auto; max-width: 100%;"></embed>
       </figure>
-      <figure style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; max-width: 800px; margin: 0;">
-        <embed src="https://wakatime.com/share/@stperrakis/1426fa0f-b937-4003-a817-4f1590a0d8b7.svg" style="display: block; width: 100%; max-width: 500px; height: auto; margin: 0;"></embed>
+      <figure style="flex: 1; margin: 5px;">
+        <embed src="https://wakatime.com/share/@stperrakis/1426fa0f-b937-4003-a817-4f1590a0d8b7.svg" style="width: 100%; height: auto; max-width: 100%;"></embed>
       </figure>
     ` : `
-      <figure style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; max-width: 800px; margin: 0;">
-        <embed src="https://wakatime.com/share/@stperrakis/15a8c207-63b0-41c1-be29-b21a1196ba4b.svg" style="display: block; width: 100%; max-width: 500px; height: auto; margin: 0;"></embed>
+      <figure style="flex: 1; margin: 5px;">
+        <embed src="https://wakatime.com/share/@stperrakis/15a8c207-63b0-41c1-be29-b21a1196ba4b.svg" style="width: 100%; height: auto; max-width: 100%;"></embed>
       </figure>
-      <figure style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; max-width: 800px; margin: 0;">
-        <embed src="https://wakatime.com/share/@stperrakis/4d26bfdd-0e56-4779-9ee6-fd23792112ec.svg" style="display: block; width: 100%; max-width: 500px; height: auto; margin: 0;"></embed>
+      <figure style="flex: 1; margin: 5px;">
+        <embed src="https://wakatime.com/share/@stperrakis/4d26bfdd-0e56-4779-9ee6-fd23792112ec.svg" style="width: 100%; height: auto; max-width: 100%;"></embed>
       </figure>
     `;
   </script>
