@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Stelios Perrakis",
-    "label": "MSc in Computer Engineering",
+    "label": "Graduate Student in Computer Engineering",
     "image": "",
-    "email": "stylperr@iacm.forth.gr",
+    "email": "stperrakis@csd.uoc.gr",
     "url": "https://stperrakis.github.io/",
     "Keywords": [
-      "Generative Models",
-      "Diffusion Models",
-      "Computer Vision",
-      "Image Generation",
+      "Generative Models ",
+      "Diffusion Models ",
+      "Computer Vision ",
+      "Image Generation ",
       "Representation Learning"
     ],
     "location": {
