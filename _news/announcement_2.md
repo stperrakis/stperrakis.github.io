@@ -1,9 +1,10 @@
 ---
-layout: news
-date: Now
+layout: post
+date:  2024-12-10 15:42:00-0400
 inline: true
 related_posts: false
 ---
+
 My MSc Thesis Overview
 
 My MSc thesis involved the exploration of diffusion models for super-resolution in medical imaging. Specifically Improved, Cold, and ResShift variants, with various backbones including UNet and VIT. These models were tested in both the Latent and Spatial domains, utilizing first-stage models trained in-house, such as VQVAE and VAE. Their performance was compared against established models from hugging face [MRI Autoencoder v0.1](https://huggingface.co/microsoft/mri-autoencoder-v0.1) and the [SDXL-VAE](https://huggingface.co/stabilityai/sdxl-vae).
