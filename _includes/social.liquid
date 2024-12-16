@@ -1,3 +1,10 @@
+<style>
+/* Adjusting Font Awesome and Academicons Icons */
+.fa, .fa-solid, .fa-brands, .ai {
+    font-size: 0.75em; /* Reduces size to 75% of the original */
+}
+</style>
+
 {% if site.email %}
   <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}
@@ -31,15 +38,6 @@
 {% if site.research_gate_profile %}
   <a href="https://www.researchgate.net/profile/{{ site.research_gate_profile }}/" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
 {% endif %}
-{% if site.ieee_id %}
-  <a href="https://ieeexplore.ieee.org/author/{{ site.ieee_id }}/" title="IEEE Xplore"><i class="ai ai-ieee"></i></a>
-{% endif %}
-{% if site.acm_id %}
-  <a href="https://dl.acm.org/profile/{{ site.acm_id }}/" title="ACM DL"><i class="ai ai-acm"></i></a>
-{% endif %}
-{% if site.scopus_id %}
-  <a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus_id }}" title="Scopus"><i class="ai ai-scopus"></i></a>
-{% endif %}
 {% if site.github_username %}
   <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
 {% endif %}
@@ -47,10 +45,10 @@
   <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
 {% endif %}
 {% if site.x_username %}
-  <a href="https://twitter.com/{{ site.x_username }}" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+  <a href="https://twitter.com/{{ site.x_username }}" title="X"><i class="fa-brands fa-twitter"></i></a>
 {% endif %}
 {% if site.mastodon_username %}
-  <a rel="me" href="https://{{ site.mastodon_username  }}" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
+  <a rel="me" href="https://{{ site.mastodon_username }}" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
 {% endif %}
 {% if site.medium_username %}
   <a href="https://medium.com/@{{ site.medium_username }}" title="Medium"><i class="fa-brands fa-medium"></i></a>
