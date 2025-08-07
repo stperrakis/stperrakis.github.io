@@ -13,7 +13,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing an MSc in Computer Science 🎓 at the University of Crete. My thesis focuses on applying Generative Models in Deep Learning 💻 to address challenges in image super-resolution 🔍, employing advanced techniques such as Diffusion and Latent Diffusion Models. My primary interest lies in leveraging Deep Learning to tackle challenges in Computer Vision 👀.
-
+I am a PhD student in Digital Pathology 🧬 at CentraleSupélec, where I focus on applying Deep Learning to solve real-world problems in medical imaging. I hold an MSc in Computer Science 🎓 from the University of Crete, where my thesis explored the application of Generative Models in Deep Learning 💻 for image super-resolution 🔍, leveraging state-of-the-art techniques such as Diffusion and Latent Diffusion Models. My core interest lies in pushing the boundaries of Computer Vision 👀 through advanced AI methodologies.
 ___
-*<u>Keywords:</u>* *Generative Models*, *Deep Learning*, *Image super-resolution*, *Diffusion Models*, *Latent Diffusion Models*, *Computer Vision*
+*<u>Keywords:</u>* *Digital Pathology*, *Generative Models*, *Deep Learning*, *Computer Vision*
