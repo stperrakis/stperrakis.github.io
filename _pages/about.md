@@ -13,6 +13,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Digital Pathology 🧬 at CentraleSupélec, where I focus on applying Deep Learning to solve real-world problems in medical imaging. I hold an MSc in Computer Science 🎓 from the University of Crete, where my thesis explored the application of Generative Models in Deep Learning 💻 for image super-resolution 🔍, leveraging state-of-the-art techniques such as Diffusion and Latent Diffusion Models. My core interest lies in pushing the boundaries of Computer Vision 👀 through advanced AI methodologies.
+PhD researcher in Digital Pathology 🧬 at CentraleSupélec, focusing on Deep Learning applications in medical imaging. Research interests center on advancing Computer Vision 👁️ through AI methodologies.
 ___
 *<u>Keywords:</u>* *Digital Pathology*, *Generative Models*, *Deep Learning*, *Computer Vision*

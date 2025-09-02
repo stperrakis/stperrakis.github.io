@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Stelios Perrakis",
-    "label": "Graduate Student in Computer Engineering",
-    "image": "",
+    "label": "PhD candidate in Digital Pathology at CentraleSupélec",
+    "image": "assets/img/prof_pic.jpg",
     "email": "stperrakis@csd.uoc.gr",
     "url": "https://stperrakis.github.io/",
     "Keywords": [
-      "Generative Models ",
-      "Diffusion Models ",
-      "Computer Vision ",
-      "Image Generation ",
+      "Generative Models",
+      "Diffusion Models",
+      "Computer Vision",
+      "Image Generation",
       "Representation Learning"
     ],
     "location": {
@@ -28,6 +28,15 @@
   },
   "work": [
     {
+    "name": "CentraleSupélec",
+    "position": "PhD Candidate in Digital Pathology",
+    "url": "https://biomathematics.mics.centralesupelec.fr/",
+    "startDate": null,
+    "endDate": null,
+    "summary": "Deep Learning methods for Digital Pathology.",
+    "highlights": []  
+  },
+    {
       "name": "Foundation for Research & Technology Hellas (FORTH)",
       "position": "Research Fellow at Institute of Computational and Applied Mathematics (IACM)",
       "url": "https://www.iacm.forth.gr/",
@@ -44,16 +53,6 @@
       "endDate": "2021-09-01",
       "summary": "Focused on Natural Language Processing Tasks in Marine Domain; including Topic Modeling and query optimization for Search Engines.",
       "highlights": []
-    },
-    {
-      "name": "Aristotle University of Thessaloniki",
-      "position": "Research Intern at Artificial Intelligence and Information Analysis (AIIA)",
-      "url": "https://aiia.csd.auth.gr/",
-      "startDate": "2020-09-01",
-      "endDate": "2021-01-01",
-      "summary": "Worked on 'Object Tracking from UAV footage with RNN'.",
-      "highlights": []
-
     }
   ],
   "education": [
@@ -65,7 +64,7 @@
       "studyType": "MSc",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "score": "9.23",
+      "score": "9.14",
       "courses": [
         "Advanced Topics on Computer Vision",
         "Computer Vision",
@@ -76,27 +75,6 @@
       "thesis": {
         "title": "Generative Models for Super-Resolution in Medical Imaging"
       }
-    },
-    {
-      "institution": "Aristotle University of Thessaloniki",
-      "location": "Thessaloniki, Greece",
-      "url": "http://mlab.csd.auth.gr/ntsitsas/en/index.html",
-      "area": "Informatics",
-      "studyType": "BSc",
-      "startDate": "2013-09-01",
-      "endDate": "2020-08-01",
-      "score": "7.04",
-      "courses": [
-        "Computational Intelligence",
-        "Digital Signal Processing",
-        "Optimization",
-        "Differential Equations II",
-        "Signal and Systems",
-        "Algorithms",
-        "Operating Systems"
-      ],
-      "thesis": {
-        "title": "Optimization Algorithms for the Cutting Stock Problem"      }
     }
   ],
   "skills": [
@@ -118,7 +96,6 @@
         "TensorFlow",
         "Latex",
         "GIT",
-        "SOLR",
         "Inkscape",
         "WordPress"
       ]
@@ -132,18 +109,6 @@
     {
       "language": "English",
       "fluency": "C1 - IELTS Academic 7.0/9.0"
-    }
-  ],
-  "honors": [
-    {
-      "title": "Best Paper Award",
-      "event": "IEEE Annual Computing and Communication Workshop and Conference (CCWC)",
-      "date": "2019-01-01"
-    },
-    {
-      "title": "Best Presenter Award",
-      "event": "IEEE Annual Computing and Communication Workshop and Conference (CCWC)",
-      "date": "2019-01-01"
     }
   ],
   "projects": [
