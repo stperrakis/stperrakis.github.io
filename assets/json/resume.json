@@ -2,9 +2,9 @@
   "basics": {
     "name": "Stelios Perrakis",
     "label": "PhD candidate in Digital Pathology at CentraleSupélec",
-    "image": "assets/img/prof_pic.jpg",
+    "image": "assets/img/prof_pic_color.png",
     "email": "stperrakis@csd.uoc.gr",
-    "url": "https://stperrakis.github.io/",
+    "url": "assets/img/prof_pic.jpg",
     "Keywords": [
       "Generative Models",
       "Diffusion Models",
@@ -63,7 +63,7 @@
       "area": "Computer Engineering",
       "studyType": "MSc",
       "startDate": "2022-09-01",
-      "endDate": "Present",
+      "endDate": "2024-12-20",
       "score": "9.14",
       "courses": [
         "Advanced Topics on Computer Vision",
