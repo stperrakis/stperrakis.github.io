@@ -2,9 +2,9 @@
   "basics": {
     "name": "Stelios Perrakis",
     "label": "PhD candidate in Digital Pathology at CentraleSupélec",
-    "image": "assets/img/prof_pic_color.png",
+    "image": "assets/img/prof_pic.jpg",
     "email": "stperrakis@csd.uoc.gr",
-    "url": "assets/img/prof_pic.jpg",
+    "url": "https://stperrakis.github.io/",
     "Keywords": [
       "Generative Models",
       "Diffusion Models",
