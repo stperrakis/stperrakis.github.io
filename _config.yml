@@ -8,7 +8,7 @@ middle_name:
 last_name: Perrakis
 email: stelios.perrakis@centralesupelec.fr
 description: PhD Candidate in Digital Pathology, CentraleSupélec, University of Paris-Saclay
-  
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -80,7 +80,7 @@ flickr_id: # your flickr id
 github_username: stperrakis # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id:  # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -170,12 +170,12 @@ giscus:
 # you can display them in your blog by adding a link to the RSS feed.
 
 # external_sources:
-#   - name: 
+#   - name:
 #     rss_url:
-#   - name: 
+#   - name:
 #     posts:
-#       - url: 
-#         published_date: 
+#       - url:
+#         published_date:
 
 # -----------------------------------------------------------------------------
 # Newsletter

@@ -5,12 +5,7 @@
     "image": "assets/img/prof_pic.jpg",
     "email": "stelios.perrakis@centralesupelec.fr",
     "url": "https://stperrakis.github.io/",
-    "Keywords": [
-      "Generative Models  ",
-      "Computer Vision  ",
-      "Image Generation  ",
-      "Representation Learning  "
-    ],
+    "Keywords": ["Generative Models  ", "Computer Vision  ", "Image Generation  ", "Representation Learning  "],
     "profiles": [
       {
         "network": "LinkedIn",
@@ -21,14 +16,14 @@
   },
   "work": [
     {
-    "name": "CentraleSupélec",
-    "position": "PhD Candidate in Digital Pathology",
-    "url": "https://biomathematics.mics.centralesupelec.fr/",
-    "startDate": "2025-05-01",
-    "endDate": null,
-    "summary": "Deep Learning methods for Digital Pathology.",
-    "highlights": []  
-  },
+      "name": "CentraleSupélec",
+      "position": "PhD Candidate in Digital Pathology",
+      "url": "https://biomathematics.mics.centralesupelec.fr/",
+      "startDate": "2025-05-01",
+      "endDate": null,
+      "summary": "Deep Learning methods for Digital Pathology.",
+      "highlights": []
+    },
     {
       "name": "Foundation for Research & Technology Hellas (FORTH)",
       "position": "Research Fellow at Institute of Computational and Applied Mathematics (IACM)",
@@ -73,25 +68,11 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "MATLAB",
-        "HTML/CSS",
-        "Java"
-      ]
+      "keywords": ["Python", "C/C++", "MATLAB", "HTML/CSS", "Java"]
     },
     {
       "name": "Technologies",
-      "keywords": [
-        "PyTorch",
-        "Jax",
-        "TensorFlow",
-        "Latex",
-        "GIT",
-        "Inkscape",
-        "WordPress"
-      ]
+      "keywords": ["PyTorch", "Jax", "TensorFlow", "Latex", "GIT", "Inkscape", "WordPress"]
     }
   ],
   "languages": [

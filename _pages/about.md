@@ -21,5 +21,6 @@ I completed my MSc in Computer Engineering at the University of Crete (GPA: 9.14
 
 I am currently a PhD candidate at CentraleSupélec, University of Paris-Saclay, where I work on deep learning methods for digital pathology. My research focuses on developing techniques for large medical image datasets under weak supervision, in settings where labels are limited, data are noisy, and decisions matter. I am particularly interested in generative models, representation learning, and their applications to real-world clinical problems.
 
-___
-*<u>Keywords:</u>* *Digital Pathology*, *Generative Models*, *Deep Learning*, *Computer Vision*
+---
+
+_<u>Keywords:</u>_ _Digital Pathology_, _Generative Models_, _Deep Learning_, _Computer Vision_

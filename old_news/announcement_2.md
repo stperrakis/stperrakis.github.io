@@ -1,6 +1,6 @@
 ---
 layout: post
-date:  2024-12-10 08:42:00-0400
+date: 2024-12-10 08:42:00-0400
 inline: true
 related_posts: false
 ---
@@ -10,4 +10,3 @@ My MSc thesis involved the exploration of **diffusion models** for **super-resol
 In the in-house trained **VAE**, I incorporated a specialized **training loss** that enabled the model to converge in fewer iterations compared to the traditional combination of GAN loss, KL divergence, and pixel loss. Additionally, I experimented with **LoRA** to handle data from **out-of-distribution data**, such as different **acceleration factors** in **MRI images** and data variations from **FastMRI knee** to **FastMRI brain** and vice versa.
 
 I plan to **open-source** the code and will post extensive analyses on various aspects of this work. Stay tuned for more updates on each topic.
-
