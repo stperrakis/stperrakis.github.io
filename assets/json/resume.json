@@ -3,11 +3,10 @@
     "name": "Stelios Perrakis",
     "label": "PhD candidate in Digital Pathology at CentraleSupélec",
     "image": "assets/img/prof_pic.jpg",
-    "email": "stperrakis@csd.uoc.gr",
+    "email": "stelios.perrakis@centralesupelec.fr",
     "url": "https://stperrakis.github.io/",
     "Keywords": [
       "Generative Models  ",
-      "Diffusion Models  ",
       "Computer Vision  ",
       "Image Generation  ",
       "Representation Learning  "
