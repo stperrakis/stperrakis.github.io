@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+header_image: IMG_1365.JPG
 
 profile:
   align: left
